@@ -2,7 +2,7 @@
 
 ## Intro
 
-I have been cooking a lot recently. I have always been wondering how do people find the best pairing ingredient when deciding what to cook.
+I have been cooking a lot recently. I have always been wondering how people find the best group of ingredients when deciding what to cook.
 
 There was this rainy day. I felt depressed and went for shopping. This great idea came to me. Poeple have been talking about embedding of words in NLP. In principle, we should be able to embed anything in some reasonable number of dimensions. Why not food and ingredient? It will be very easy since we have a lot of recipes. We just need to find an embedding that can tell us the 'distance' between the ingredients so that we could throw things with the shortest distances together and make good food.
 
